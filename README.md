@@ -2,7 +2,7 @@
 
 ---
 
-##Descrição
+## Descrição
 
 Bem-vindo ao EventBrite, o vibrante e eletrizante ponto de encontro online para todos os amantes da vida noturna e eventos brilhantes. Se você é apaixonado por neon, música pulsante e experiências únicas, você veio ao lugar certo. O EventBrite é mais do que um simples site de eventos; é um universo repleto de oportunidades de mergulhar na atmosfera radiante e energética dos eventos neon.
 
@@ -28,7 +28,7 @@ Gostaria de esclarecer que o EventBrite descrito aqui é puramente fictício. Es
 
 Se você está interessado em explorar esta ideia fictícia e mergulhar em um mundo de eventos neon, convido você a visitar o link abaixo. Lá, você encontrará uma representação visualmente deslumbrante do que poderia ser o EventBrite fictício.
 
-[Visite-nos]()
+[Visite-nos](https://vitzlok.github.io/EventBrite/)
 
 Embora este site não seja funcional, espero que ele inspire sua imaginação e desperte seu entusiasmo por experiências brilhantes e cheias de energia.
 
